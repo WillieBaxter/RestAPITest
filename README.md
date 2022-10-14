@@ -12,3 +12,6 @@ https://1ryu4whyek.execute-api.us-west-2.amazonaws.com/dev/skus/%7bid%7d
 
 The test consist of assertions conducted through library RestAssured
 in connection with Java.
+
+Execution:
+Run the Java entitled: Post_test.java
